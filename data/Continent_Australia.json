@@ -1,0 +1,311 @@
+[{
+  "month": "Jan",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "627.17647058823513"
+}, {
+  "month": "Feb",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "847.75"
+}, {
+  "month": "Mar",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "777.53846153846143"
+}, {
+  "month": "Apr",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "594.14285714285711"
+}, {
+  "month": "May",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "722.82352941176487"
+}, {
+  "month": "June",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "650.5999999999998"
+}, {
+  "month": "July",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "654.55555555555554"
+}, {
+  "month": "Aug",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "695.60869565217411"
+}, {
+  "month": "Sep",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "618.33333333333326"
+}, {
+  "month": "Oct",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "692.26086956521726"
+}, {
+  "month": "Nov",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "689.68421052631584"
+}, {
+  "month": "Dec",
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "763.0454545454545"
+}, {
+  "month": "Jan",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "876.72727272727286"
+}, {
+  "month": "Feb",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "891.25"
+}, {
+  "month": "Mar",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "909.4"
+}, {
+  "month": "Apr",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "899.75"
+}, {
+  "month": "May",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "921.56249999999989"
+}, {
+  "month": "June",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "908.35483870967732"
+}, {
+  "month": "July",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "920.0"
+}, {
+  "month": "Aug",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "914.40000000000009"
+}, {
+  "month": "Sep",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "880.0"
+}, {
+  "month": "Oct",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "909.8125"
+}, {
+  "month": "Nov",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "890.08333333333337"
+}, {
+  "month": "Dec",
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "912.0"
+}, {
+  "month": "Jan",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "622.67999999999984"
+}, {
+  "month": "Feb",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "724.43333333333317"
+}, {
+  "month": "Mar",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "662.888888888889"
+}, {
+  "month": "Apr",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "588.3478260869565"
+}, {
+  "month": "May",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "661.96666666666681"
+}, {
+  "month": "June",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "687.06521739130437"
+}, {
+  "month": "July",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "259.19921875000006"
+}, {
+  "month": "Aug",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "251.30870279146143"
+}, {
+  "month": "Sep",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "281.4684813753579"
+}, {
+  "month": "Oct",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "265.73297002724792"
+}, {
+  "month": "Nov",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "251.76436781609192"
+}, {
+  "month": "Dec",
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "276.41066666666637"
+}, {
+  "month": "Jan",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "246.40166204986141"
+}, {
+  "month": "Feb",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "233.95020188425298"
+}, {
+  "month": "Mar",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "253.6115007012622"
+}, {
+  "month": "Apr",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "239.95208070617912"
+}, {
+  "month": "May",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "257.93750000000017"
+}, {
+  "month": "June",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "267.77777777777789"
+}, {
+  "month": "July",
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "200.51497005988026"
+}, {
+  "month": "Jan",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "673.18181818181813"
+}, {
+  "month": "Feb",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "657.05555555555554"
+}, {
+  "month": "Mar",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "647.375"
+}, {
+  "month": "Apr",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "623.36363636363637"
+}, {
+  "month": "May",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "706.96000000000015"
+}, {
+  "month": "June",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "680.7941176470589"
+}, {
+  "month": "July",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "251.33864541832654"
+}, {
+  "month": "Aug",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "243.47213114754089"
+}, {
+  "month": "Sep",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "276.1819505094615"
+}, {
+  "month": "Oct",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "255.12863070539413"
+}, {
+  "month": "Nov",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "245.99274310595055"
+}, {
+  "month": "Dec",
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "258.61126373626354"
+}, {
+  "month": "Jan",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "229.375"
+}, {
+  "month": "Feb",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "218.30886426592798"
+}, {
+  "month": "Mar",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "238.70664739884384"
+}, {
+  "month": "Apr",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "223.22164276401557"
+}, {
+  "month": "May",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "237.70491803278685"
+}, {
+  "month": "June",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "247.783943329398"
+}, {
+  "month": "July",
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "183.64564564564577"
+}]

@@ -1,0 +1,13 @@
+[{
+  "Age_Group": "Young Adults (25-34)",
+  "Average_Revenue": "266.46605943753747"
+}, {
+  "Age_Group": "Adults (35-64)",
+  "Average_Revenue": "260.98764867337707"
+}, {
+  "Age_Group": "Youth (\u003c25)",
+  "Average_Revenue": "221.72723543888483"
+}, {
+  "Age_Group": "Seniors (64+)",
+  "Average_Revenue": "238.01823708206689"
+}]

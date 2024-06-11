@@ -1,0 +1,72 @@
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif; /* Set font family */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+h1 {
+    margin: 0; /* Remove margin for h1 elements */
+}
+
+main {
+    padding: 20px; /* Add padding to main content */
+}
+
+/* Contact section styles */
+.contact {
+    background-color: #FFFFFF; /* Set background color */
+    color: #412B9A; /* Set text color */
+    padding: 20px; /* Add padding */
+    margin-bottom: 20px; /* Add bottom margin */
+    border-radius: 8px; /* Add border radius */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+.contact h2 {
+    margin-top: 0; /* Remove top margin for h2 elements */
+}
+
+.form-group {
+    margin-bottom: 20px; /* Add bottom margin for form groups */
+}
+
+.form-group label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 5px; /* Add bottom margin for labels */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 98%; /* Set width of input fields and textareas */
+    padding: 10px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+    border: 1px solid #ccc; /* Add border */
+}
+
+textarea {
+    resize: vertical; /* Allow vertical resizing of textareas */
+}
+
+button[type="submit"] {
+    background-color: #785ABA; /* Set background color */
+    color: #FFFFFF; /* Set text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+    cursor: pointer; /* Set cursor to pointer */
+    transition: background-color 0.3s; /* Add transition effect */
+}
+
+button[type="submit"]:hover {
+    background-color: #674ea7; /* Change background color on hover */
+}
+
+footer {
+    background-color: #412B9A; /* Set background color */
+    color: #FFFFFF; /* Set text color */
+    text-align: center; /* Align text to center */
+    padding: 10px 0; /* Add padding */
+}

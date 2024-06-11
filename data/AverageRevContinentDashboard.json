@@ -1,0 +1,73 @@
+[{
+  "year": "2011",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "658"
+}, {
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "624"
+}, {
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "595"
+}, {
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "925"
+}, {
+  "year": "2012",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "911"
+}, {
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "858"
+}, {
+  "year": "2013",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "412"
+}, {
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "401"
+}, {
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "388"
+}, {
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "389"
+}, {
+  "year": "2014",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "370"
+}, {
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "349"
+}, {
+  "year": "2015",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "414"
+}, {
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "385"
+}, {
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "380"
+}, {
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "384"
+}, {
+  "year": "2016",
+  "Continent": "AUSTRALIA",
+  "average_revenue": "352"
+}, {
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "329"
+}]

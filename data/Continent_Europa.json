@@ -1,0 +1,296 @@
+[{
+  "month": "Mar",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "695.25"
+}, {
+  "month": "Apr",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "625.5"
+}, {
+  "month": "May",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "491.5"
+}, {
+  "month": "June",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "701.25"
+}, {
+  "month": "July",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "699.61538461538453"
+}, {
+  "month": "Aug",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "561.888888888889"
+}, {
+  "month": "Sep",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "605.0"
+}, {
+  "month": "Oct",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "601.22222222222217"
+}, {
+  "month": "Nov",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "684.26666666666654"
+}, {
+  "month": "Dec",
+  "year": "2011",
+  "Continent": "EUROPE",
+  "average_revenue": "696.66666666666663"
+}, {
+  "month": "Feb",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "912.5"
+}, {
+  "month": "Mar",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "945.0"
+}, {
+  "month": "Apr",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "915.25"
+}, {
+  "month": "May",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "913.0"
+}, {
+  "month": "June",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "904.0"
+}, {
+  "month": "July",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "899.5"
+}, {
+  "month": "Aug",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "940.0"
+}, {
+  "month": "Sep",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "886.0"
+}, {
+  "month": "Oct",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "969.0"
+}, {
+  "month": "Nov",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "1004.0"
+}, {
+  "month": "Dec",
+  "year": "2012",
+  "Continent": "EUROPE",
+  "average_revenue": "882.0"
+}, {
+  "month": "Jan",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "650.56249999999989"
+}, {
+  "month": "Feb",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "688.36363636363637"
+}, {
+  "month": "Mar",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "616.62500000000011"
+}, {
+  "month": "Apr",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "704.62500000000011"
+}, {
+  "month": "May",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "714.39285714285722"
+}, {
+  "month": "June",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "682.774193548387"
+}, {
+  "month": "July",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "319.25654450261766"
+}, {
+  "month": "Aug",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "265.12947368421032"
+}, {
+  "month": "Sep",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "265.73099999999977"
+}, {
+  "month": "Oct",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "244.71790065604523"
+}, {
+  "month": "Nov",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "261.77502691065678"
+}, {
+  "month": "Dec",
+  "year": "2013",
+  "Continent": "EUROPE",
+  "average_revenue": "280.28228652081867"
+}, {
+  "month": "Jan",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "259.34377797672346"
+}, {
+  "month": "Feb",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "259.92656391659096"
+}, {
+  "month": "Mar",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "282.49840764331225"
+}, {
+  "month": "Apr",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "278.93730650154822"
+}, {
+  "month": "May",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "286.88739746457861"
+}, {
+  "month": "June",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "281.25842696629223"
+}, {
+  "month": "July",
+  "year": "2014",
+  "Continent": "EUROPE",
+  "average_revenue": "230.08720930232559"
+}, {
+  "month": "Jan",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "683.15384615384619"
+}, {
+  "month": "Feb",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "696.06666666666661"
+}, {
+  "month": "Mar",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "599.50000000000011"
+}, {
+  "month": "Apr",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "712.91666666666663"
+}, {
+  "month": "May",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "742.85714285714289"
+}, {
+  "month": "June",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "699.62068965517244"
+}, {
+  "month": "July",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "302.96969696969694"
+}, {
+  "month": "Aug",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "249.91280947255123"
+}, {
+  "month": "Sep",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "244.28834355828212"
+}, {
+  "month": "Oct",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "230.783938814531"
+}, {
+  "month": "Nov",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "247.7743362831859"
+}, {
+  "month": "Dec",
+  "year": "2015",
+  "Continent": "EUROPE",
+  "average_revenue": "264.74981923355097"
+}, {
+  "month": "Jan",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "243.06365313653131"
+}, {
+  "month": "Feb",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "244.80633147113619"
+}, {
+  "month": "Mar",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "268.14696223316906"
+}, {
+  "month": "Apr",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "262.44249201277995"
+}, {
+  "month": "May",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "265.72966692486438"
+}, {
+  "month": "June",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "262.51294964028779"
+}, {
+  "month": "July",
+  "year": "2016",
+  "Continent": "EUROPE",
+  "average_revenue": "222.30232558139525"
+}]

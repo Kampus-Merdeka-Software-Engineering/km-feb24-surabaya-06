@@ -1,0 +1,390 @@
+/* Set the base styles for the body */
+body {
+    font-family: Arial, sans-serif; /* Use Arial or sans-serif font */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: #f9f9f9; /* Set background color */
+    color: #412B9A; /* Set text color */
+}
+
+/* Style for the header */
+header {
+    background-color: #fff; /* Set background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    padding: 20px 0; /* Add padding */
+}
+
+/* Navbar styles */
+.navbar {
+    display: flex; /* Use flexbox layout */
+    justify-content: space-between; /* Space evenly between items */
+    align-items: center; /* Center items vertically */
+    padding: 0 20px; /* Add horizontal padding */
+}
+
+/* Navbar logo styles */
+.navbar-logo {
+    flex: 1; /* Take remaining space */
+}
+
+.navbar-logo a {
+    font-size: 1.5em; /* Set font size */
+    color: #412B9A; /* Set text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Set font weight to bold */
+}
+
+/* Navbar menu styles */
+.navbar-menu {
+    list-style: none; /* Remove default list style */
+    display: flex; /* Use flexbox layout */
+    gap: 20px; /* Add gap between menu items */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.navbar-menu li {
+    position: relative; /* Set position to relative */
+}
+
+.navbar-menu a {
+    color: #412B9A; /* Set text color */
+    text-decoration: none; /* Remove underline */
+    padding: 8px 16px; /* Add padding */
+    transition: background-color 0.3s, color 0.3s; /* Add transition effect */
+}
+
+/* Hover and active state styles for navbar menu items */
+.navbar-menu a:hover,
+.navbar-menu a.active {
+    background-color: #785ABA; /* Change background color on hover/active */
+    color: #fff; /* Change text color on hover/active */
+    border-radius: 4px; /* Add border radius */
+}
+
+/* Hamburger menu styles */
+.hamburger-menu {
+    display: none; /* Hide hamburger menu by default */
+    flex-direction: column; /* Stack bars vertically */
+    cursor: pointer; /* Change cursor to pointer */
+}
+
+.hamburger-menu .bar {
+    width: 25px; /* Set width of each bar */
+    height: 3px; /* Set height of each bar */
+    background-color: #333; /* Set background color of bars */
+    margin: 4px 0; /* Add margin between bars */
+    transition: 0.3s; /* Add transition effect */
+}
+
+.hamburger-menu + .navbar-menu {
+    margin-top: 20px; /* Add margin between hamburger menu and navbar menu */
+}
+
+/* Footer styles */
+footer {
+    background-color: #412B9A; /* Set background color */
+    color: #FFFFFF; /* Set text color */
+    text-align: center; /* Center align text */
+    padding: 10px 0; /* Add padding */
+}
+
+/* Heading 2 styles */
+h2 {
+    margin-top: 0; /* Remove default margin */
+    color: #785ABA; /* Set text color */
+}
+
+/* Dashboard header styles */
+.dashboard-header {
+    background-color: #fff; /* Set background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    padding: 20px 0; /* Add padding */
+    text-align: left; /* Align text to left */
+}
+
+/* Dashboard title styles */
+.dashboard-title {
+    font-size: 1.5em; /* Set font size */
+    color: #333; /* Set text color */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+/* Dashboard container styles */
+.dashboard-container {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Allow container to wrap */
+    justify-content: flex-start; /* Align items to start */
+    margin: 0 auto; /* Center align container */
+    padding: 6px; /* Add padding */
+    gap: 20px; /* Add gap between items */
+}
+
+/* Dashboard left and right styles */
+.dashboard-left, .dashboard-right {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Allow container to wrap */
+    gap: 20px; /* Add gap between items */
+    background-color: #fff; /* Set background color */
+    padding: 20px; /* Add padding */
+    box-sizing: border-box; /* Include padding and border in width */
+    border-radius: 8px; /* Add border radius */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    flex: 1; /* Take remaining space */
+}
+
+/* Dashboard left styles */
+.dashboard-left {
+    flex: 1; /* Take remaining space */
+    min-width: 0px; /* Set minimum width */
+    justify-content: flex-start; /* Align items to start */
+}
+
+/* Dashboard right styles */
+.dashboard-right {
+    flex: 1; /* Take remaining space */
+    min-width: 300px; /* Set minimum width */
+    justify-content: flex-start; /* Align items to start */
+}
+
+/* Article styles */
+article {
+    border-radius: 8px; /* Add border radius */
+    padding: 0px; /* Remove default padding */
+    width: 100%; /* Set width to 100% */
+    box-sizing: border-box; /* Include padding and border in width */
+    text-align: left; /* Align text to left */
+}
+
+/* Card container styles */
+.card-container {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Allow container to wrap */
+    justify-content: flex-start; /* Align items to start */
+    gap: 20px; /* Add gap between items */
+    width: calc(100% - 32px); /* Set width to 100% minus padding */
+    max-width: 1200px; /* Set maximum width */
+    margin: 0 auto; /* Center align container */
+    padding: 16px; /* Add padding */
+}
+
+/* Card styles */
+.card {
+    background-color: #E2D5FF; /* Set background color */
+    border-radius: 8px; /* Add border radius */
+    padding: 20px; /* Add padding */
+    flex: 1 1 calc(25% - 20px); /* Distribute space evenly */
+    box-sizing: border-box; /* Include padding and border in width */
+    min-width: 200px; /* Set minimum width */
+    max-width: 300px; /* Set maximum width */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    transition: transform 0.3s, box-shadow 0.3s; /* Add transition effect */
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange content in a column */
+    justify-content: space-between; /* Distribute space evenly between content */
+    text-align: left; /* Align text to left */
+}
+
+/* Hover state styles for cards */
+.card:hover {
+    transform: translateY(-5px); /* Move card up by 5px on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Add larger box shadow on hover */
+}
+
+/* Styles for headings inside cards */
+.card h3, .card p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+/* Styles for card heading */
+.card h3 {
+    color: #412B9A; /* Set text color */
+}
+
+/* Styles for card paragraphs */
+.card p {
+    font-size: 1.2em; /* Set font size */
+    color: #412B9A; /* Set text color */
+}
+
+/* Canvas styles */
+canvas {
+    width: 100%; /* Set canvas width to 100% */
+    height: 200px; /* Set canvas height to 200px */
+    background-color: rgba(147, 112, 219, 0.2); /* Set background color with opacity */
+    border-radius: 8px; /* Add border radius */
+}
+
+/* Styles for smaller data tables */
+.dataTables_wrapper {
+    overflow-x: auto; /* Enable horizontal scrolling for tables */
+}
+
+/* Styles for data tables */
+table.dataTable {
+    width: 100% !important; /* Force table width to 100% */
+}
+
+table.dataTable th, table.dataTable td {
+    padding: 8px; /* Keep padding consistent */
+    border: 1px solid #ddd; /* Add border */
+}
+
+table.dataTable th {
+    background-color: #f4f4f4; /* Set header background color */
+    text-align: right; /* Align header text to the right */
+}
+
+table.dataTable tbody tr:nth-child(even) {
+    background-color: #dad1ff; /* Set background color for even rows */
+}
+
+/* Media queries for smaller screens */
+@media only screen and (max-width: 768px) {
+    .dataTables_wrapper {
+        overflow-x: auto; /* Enable horizontal scrolling for tables */
+    }
+
+    table.dataTable {
+        width: auto !important; /* Set table width to auto */
+    }
+
+    table.dataTable th, table.dataTable td {
+        padding: 6px; /* Reduce padding for smaller screens */
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .dataTables_wrapper {
+        overflow-x: auto; /* Enable horizontal scrolling for tables */
+    }
+
+    table.dataTable {
+        font-size: 10px; /* Reduce font size for smaller screens */
+    }
+
+    table.dataTable th, table.dataTable td {
+        padding: 4px; /* Further reduce padding for smaller screens */
+    }
+
+    .card {
+        max-width: 100%; /* Set maximum width for cards to 100% */
+    }
+}
+
+/* Media queries for responsive layouts */
+@media (max-width: 1024px) {
+    .dashboard-left, .dashboard-right {
+        flex: 1 1 100%; /* Set full width for dashboard sections */
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column; /* Arrange navbar items in a column */
+        align-items: flex-end; /* Align navbar items to the right */
+    }
+
+    .hamburger-menu {
+        display: flex; /* Display hamburger menu */
+    }
+
+    .navbar-menu {
+        flex-direction: column; /* Arrange menu items in a column */
+        align-items: flex-end; /* Align menu items to the right */
+        gap: 10px; /* Set gap between menu items */
+        display: none; /* Hide menu by default */
+        margin-top: 20px; /* Add top margin */
+    }
+
+    .navbar-menu.active {
+        display: flex; /* Display menu when active */
+    }
+
+    .navbar-menu li {
+        margin-bottom: 10px; /* Add bottom margin for menu items */
+    }
+
+    .navbar-menu a {
+        padding: 10px; /* Add padding for menu items */
+    }
+
+    .card {
+        max-width: calc(100% - 20px); /* Set maximum width for cards */
+        width: 100%; /* Set width to 100% */
+        padding: 10px; /* Add padding */
+    }
+
+    .dashboard-left, .dashboard-right {
+        flex-direction: column; /* Arrange dashboard sections in a column */
+        align-items: flex-start; /* Align items to the left */
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        justify-content: flex-end; /* Justify navbar content to the right */
+    }
+
+    .navbar-logo a {
+        font-size: 1.2em; /* Reduce font size for navbar logo */
+    }
+
+    .navbar-menu a {
+        padding: 8px; /* Add padding for menu items */
+    }
+
+    .card {
+        width: 100%; /* Set width to 100% for cards */
+    }
+
+    .dashboard-left, .dashboard-right {
+        flex-direction: column; /* Arrange dashboard sections in a column */
+        align-items: flex-start; /* Align items to the left */
+    }
+
+    .dashboard-left .card,
+    .dashboard-right .card {
+        max-width: calc(100% - 20px); /* Set maximum width for cards */
+        margin-bottom: 20px; /* Add bottom margin */
+    }
+}
+
+/* Styles for product table */
+#productTable {
+    width: 100%; /* Set table width to 100% */
+    border-collapse: collapse; /* Collapse table borders */
+    overflow-x: auto; /* Enable horizontal scrolling for tables */
+}
+
+#productTable th, #productTable td {
+    padding: 8px; /* Keep padding consistent */
+    border: 1px solid #ddd; /* Add border */
+}
+
+#productTable th {
+    background-color: #f4f4f4; /* Set header background color */
+    text-align: right; /* Align header text to the right */
+}
+
+#productTable tbody tr:nth-child(even) {
+    background-color: #dad1ff; /* Set background color for even rows */
+}
+
+@media only screen and (max-width: 768px) {
+    #productTable th, #productTable td {
+        padding: 6px; /* Reduce padding for smaller screens */
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #productTable th, #productTable td {
+        padding: 4px; /* Further reduce padding for smaller screens */
+    }
+}
+
+#productTableWrapper {
+    overflow-x: auto; /* Enable horizontal scrolling for tables */
+}

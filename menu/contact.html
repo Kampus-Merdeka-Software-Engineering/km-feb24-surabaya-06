@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <!-- External CSS files -->
+    <link rel="stylesheet" href="../style/contact.css">
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+<body>
+    <header>
+        <!-- Navigation bar -->
+        <nav class="navbar">
+            <article class="navbar-logo">
+                <a href="#">Contact US</a> <!-- Logo/link for Contact Us page -->
+            </article>
+            <ul class="navbar-menu">
+                <!-- Navigation links -->
+                <li><a href="../">Home</a></li>
+                <li><a href="story.html">Story</a></li>
+                <li><a href="profil.html">Profil</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Contact section -->
+        <section class="contact">
+            <h2>Contact Information</h2>
+            <!-- Contact information details -->
+            <ul>
+                <li>Email: team6@gmail.com</li>
+                <li>Phone: +6281928267272</li>
+                <li>Address: Surabaya, Indonesia</li>
+            </ul>
+            <h2>Contact Form</h2>
+            <!-- Contact form -->
+            <form action="#" method="post" id="contactForm">
+                <article class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </article>
+                <article class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </article>
+                <article class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </article>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <!-- Footer section -->
+        <p>&copy; 2024 Our Team Inc.</p> <!-- Copyright information -->
+    </footer>
+    <!-- SweetAlert library for displaying alerts -->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script>
+        // JavaScript for handling form submission and displaying success message
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('contactForm');
+            form.addEventListener('submit', function (event) {
+                event.preventDefault(); // Prevent default form submission
+
+                // Displaying Sweet Alert after form submission
+                swal({
+                    title: "Success!",
+                    text: "Your message has been sent successfully.",
+                    icon: "success",
+                });
+            });
+        });
+    </script>
+</body>
+</html>

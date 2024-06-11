@@ -1,0 +1,306 @@
+[{
+  "month": "Jan",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "616.3125"
+}, {
+  "month": "Feb",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "568.90909090909088"
+}, {
+  "month": "Mar",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "610.18181818181813"
+}, {
+  "month": "Apr",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "680.44444444444446"
+}, {
+  "month": "May",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "687.91666666666674"
+}, {
+  "month": "June",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "680.0"
+}, {
+  "month": "July",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "623.5"
+}, {
+  "month": "Aug",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "680.83333333333337"
+}, {
+  "month": "Sep",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "642.66666666666663"
+}, {
+  "month": "Oct",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "725.5"
+}, {
+  "month": "Nov",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "676.0"
+}, {
+  "month": "Dec",
+  "year": "2011",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "620.58333333333326"
+}, {
+  "month": "Jan",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "842.0"
+}, {
+  "month": "Feb",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "900.0"
+}, {
+  "month": "Mar",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "871.0"
+}, {
+  "month": "Apr",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "871.0"
+}, {
+  "month": "June",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "863.75"
+}, {
+  "month": "July",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "842.0"
+}, {
+  "month": "Aug",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "863.75"
+}, {
+  "month": "Sep",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "842.0"
+}, {
+  "month": "Oct",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "885.5"
+}, {
+  "month": "Nov",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "884.0"
+}, {
+  "month": "Dec",
+  "year": "2012",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "842.0"
+}, {
+  "month": "Jan",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "665.78947368421052"
+}, {
+  "month": "Feb",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "665.6521739130435"
+}, {
+  "month": "Mar",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "689.26666666666665"
+}, {
+  "month": "Apr",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "685.44"
+}, {
+  "month": "May",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "643.86666666666679"
+}, {
+  "month": "June",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "632.875"
+}, {
+  "month": "July",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "309.61538461538453"
+}, {
+  "month": "Aug",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "251.551645856981"
+}, {
+  "month": "Sep",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "260.74720496894406"
+}, {
+  "month": "Oct",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "249.54089861751149"
+}, {
+  "month": "Nov",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "245.88225718936522"
+}, {
+  "month": "Dec",
+  "year": "2013",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "264.58143851508095"
+}, {
+  "month": "Jan",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "231.95849691531134"
+}, {
+  "month": "Feb",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "239.36996336996339"
+}, {
+  "month": "Mar",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "235.85906793935982"
+}, {
+  "month": "Apr",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "234.70626349892009"
+}, {
+  "month": "May",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "248.3895040924412"
+}, {
+  "month": "June",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "244.68350515463905"
+}, {
+  "month": "July",
+  "year": "2014",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "204.68644818423417"
+}, {
+  "month": "Jan",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "649.41666666666663"
+}, {
+  "month": "Feb",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "681.12500000000011"
+}, {
+  "month": "Mar",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "713.46153846153834"
+}, {
+  "month": "Apr",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "687.61538461538464"
+}, {
+  "month": "May",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "634.77272727272725"
+}, {
+  "month": "June",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "674.0526315789474"
+}, {
+  "month": "July",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "273.96531791907529"
+}, {
+  "month": "Aug",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "237.78868360277144"
+}, {
+  "month": "Sep",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "246.76529968454244"
+}, {
+  "month": "Oct",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "233.45132743362851"
+}, {
+  "month": "Nov",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "234.31028761061944"
+}, {
+  "month": "Dec",
+  "year": "2015",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "254.50399623883376"
+}, {
+  "month": "Jan",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "219.2981153626497"
+}, {
+  "month": "Feb",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "229.89937888198739"
+}, {
+  "month": "Mar",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "224.67873303167434"
+}, {
+  "month": "Apr",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "220.40815217391312"
+}, {
+  "month": "May",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "238.06773879142332"
+}, {
+  "month": "June",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "229.97418335089588"
+}, {
+  "month": "July",
+  "year": "2016",
+  "Continent": "NORTH AMERICA",
+  "average_revenue": "193.74709562109041"
+}]

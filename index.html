@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="navbar">
+            <article class="navbar-logo">
+                <a href="#">Dashboard Team 6 Surabaya</a>
+            </article>
+            <article class="hamburger-menu" id="hamburgerMenu">
+                <article class="bar"></article>
+                <article class="bar"></article>
+                <article class="bar"></article>
+            </article>
+            <ul class="navbar-menu" id="navbarMenu">
+                <li><a href="#" id="homeLink">Home</a></li>
+                <li><a href="menu/story.html" id="storyLink">Story</a></li>
+                <li><a href="menu/profil.html" id="profileLink">Profil</a></li>
+                <li><a href="menu/contact.html" id="contactLink">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="total-section">
+        <section class="card-container">
+            <!-- Cards -->
+            <article class="card">
+                <h3>Total Revenue</h3>
+                <p id="totalRevenue">$0</p>
+            </article>
+            <article class="card">
+                <h3>Total Customers</h3>
+                <p id="totalCustomers">0</p>
+            </article>
+            <article class="card">
+                <h3>Total Orders</h3>
+                <p id="totalOrders">0</p>
+            </article>
+            <article class="card">
+                <h3>Average Revenue</h3>
+                <p id="avgRevenue">0</p>
+            </article>
+        </section>
+    </main>
+
+    <!-- Dashboard Section -->
+    <main class="dashboard-container">
+        <!-- Left Side -->
+        <section class="dashboard-left">
+            <!-- Product Data Table -->
+            <article class="left-box large" id="productTableWrapper">
+                <h2>Product Data</h2>
+                <table id="productTable" class="display">
+                    <thead>
+                        <tr>
+                            <th>Year</th>
+                            <th>Continent</th>
+                            <th>Revenue</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data will be populated by JavaScript -->
+                    </tbody>
+                </table>
+            </article>
+        </section>
+
+        <!-- Right Side -->
+        <section class="dashboard-left">
+            <!-- Charts -->
+            <article class="left-box large">
+                <h2>Average Revenue by Country</h2>
+                <div class="canvas-container">
+                    <canvas id="Average Revenue per Country"></canvas>
+                </div>
+            </article>
+            <article class="left-box large">
+                <h2>Average Revenue by Age Group</h2>
+                <div class="canvas-container">
+                    <canvas id="Average Revenue by Age Group"></canvas>
+                </div>
+            </article>
+        </section>
+
+        <!-- Right Side -->
+        <section class="dashboard-right">
+            <!-- Charts -->
+            <article class="right-box large">
+                <h2>Average Revenue by Continent</h2>
+                <label for="yearFilter">Select Year: </label>
+                <select id="yearFilter">
+                    <option value="all">All Years</option>
+                </select>
+                <div class="canvas-container">
+                    <canvas id="Average Revenue by Continent"></canvas>
+                </div>
+            </article>
+            <article class="right-box large">
+                <h2>Average Revenue by Sub Category</h2>
+                <label for="yearFilter">Select Year: </label>
+                <select id="subCategoryYearFilter">
+                    <option value="all">All Years</option>
+                </select>
+                <div class="canvas-container">
+                    <canvas id="Average Revenue by Sub Category"></canvas>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Dashboard Inc.</p>
+    </footer>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+    <script src="script/scriptChart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+    <script src="script/menuToggle.js"></script>
+
+    <!-- JavaScript to Highlight Active Page -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var currentUrl = window.location.href;
+            var homeLink = document.getElementById("homeLink");
+            var storyLink = document.getElementById("storyLink");
+            var profileLink = document.getElementById("profileLink");
+            var contactLink = document.getElementById("contactLink");
+
+            if (currentUrl.includes("story.html")) {
+                storyLink.classList.add("active");
+            } else if (currentUrl.includes("profil.html")) {
+                profileLink.classList.add("active");
+            } else if (currentUrl.includes("contact.html")) {
+                contactLink.classList.add("active");
+            } else {
+                homeLink.classList.add("active");
+            }
+        });
+    </script>
+</body>
+</html>
